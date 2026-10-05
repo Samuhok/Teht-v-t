@@ -1,0 +1,7 @@
+1 = Liiku huoneesta toiseen
+2 = Kerää esine
+3 = Näytä inventaario
+4 = Näytä huoneen esineet
+5 = Tallenna peli
+6 = Näytä ohjeet
+lopeta = Lopeta peli
